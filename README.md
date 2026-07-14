@@ -50,13 +50,13 @@
 Responsive personal portfolio built with React, showcasing skills, projects, and experience with fully mobile/tablet/desktop responsive design.
 - **Tech Stack:** React, Bootstrap, CSS3
 - **Key Features:** Fully responsive layout (mobile, tablet, desktop), dynamic sections for skills & expected roles, social profile integration
-- 🔗 [Live Demo](#) | [Source Code](https://github.com/Udhayakumar0503/your-repo-name)
+- 🔗 [Live Demo](#) | [Source Code]([https://github.com/Udhayakumar0503/your-repo-name](https://github.com/Udhayakumar0503/Port))
 
 #### 🔹 [Automated Testing Framework](https://github.com/Udhayakumar0503/your-testing-repo)
 Test automation suite for validating web application functionality and API endpoints.
 - **Tech Stack:** Selenium, JUnit, Postman
 - **Key Features:** Automated regression testing, API test cases, test report generation
-- 🔗 [Source Code](https://github.com/Udhayakumar0503/your-testing-repo)
+- 🔗 [Source Code]([https://github.com/Udhayakumar0503/your-testing-repo](https://github.com/Udhayakumar0503/TestProject))
 ---
 
 ### 📊 GitHub Stats
